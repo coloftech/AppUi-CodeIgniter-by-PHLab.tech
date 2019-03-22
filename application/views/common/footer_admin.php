@@ -46,25 +46,25 @@
         <div class="app-ui-mask-modal"></div>
 
         <!-- AppUI Core JS: jQuery, Bootstrap, slimScroll, scrollLock and App.js -->
-        <script src="<?=base_url('assets')?>/dist/assets/js/core/jquery.min.js"></script>
-        <script src="<?=base_url('assets')?>/dist/assets/js/core/bootstrap.min.js"></script>
-        <script src="<?=base_url('assets')?>/dist/assets/js/core/jquery.slimscroll.min.js"></script>
-        <script src="<?=base_url('assets')?>/dist/assets/js/core/jquery.scrollLock.min.js"></script>
-        <script src="<?=base_url('assets')?>/dist/assets/js/core/jquery.placeholder.min.js"></script>
-        <script src="<?=base_url('assets')?>/dist/assets/js/app.js"></script>
-        <script src="<?=base_url('assets')?>/dist/assets/js/app-custom.js"></script>
+        <script src="<?=base_url('assets')?>/js/core/jquery.min.js"></script>
+        <script src="<?=base_url('assets')?>/js/core/bootstrap.min.js"></script>
+        <script src="<?=base_url('assets')?>/js/core/jquery.slimscroll.min.js"></script>
+        <script src="<?=base_url('assets')?>/js/core/jquery.scrollLock.min.js"></script>
+        <script src="<?=base_url('assets')?>/js/core/jquery.placeholder.min.js"></script>
+        <script src="<?=base_url('assets')?>/js/app.js"></script>
+        <script src="<?=base_url('assets')?>/js/app-custom.js"></script>
 <?php if (isset($isdashboard)): ?>
     
         <!-- Page Plugins -->
-        <script src="<?=base_url('assets')?>/dist/assets/js/plugins/slick/slick.min.js"></script>
-        <script src="<?=base_url('assets')?>/dist/assets/js/plugins/chartjs/Chart.min.js"></script>
-        <script src="<?=base_url('assets')?>/dist/assets/js/plugins/flot/jquery.flot.min.js"></script>
-        <script src="<?=base_url('assets')?>/dist/assets/js/plugins/flot/jquery.flot.pie.min.js"></script>
-        <script src="<?=base_url('assets')?>/dist/assets/js/plugins/flot/jquery.flot.stack.min.js"></script>
-        <script src="<?=base_url('assets')?>/dist/assets/js/plugins/flot/jquery.flot.resize.min.js"></script>
+        <script src="<?=base_url('assets')?>/js/plugins/slick/slick.min.js"></script>
+        <script src="<?=base_url('assets')?>/js/plugins/chartjs/Chart.min.js"></script>
+        <script src="<?=base_url('assets')?>/js/plugins/flot/jquery.flot.min.js"></script>
+        <script src="<?=base_url('assets')?>/js/plugins/flot/jquery.flot.pie.min.js"></script>
+        <script src="<?=base_url('assets')?>/js/plugins/flot/jquery.flot.stack.min.js"></script>
+        <script src="<?=base_url('assets')?>/js/plugins/flot/jquery.flot.resize.min.js"></script>
 
         <!-- Page JS Code -->
-        <script src="<?=base_url('assets')?>/dist/assets/js/pages/index.js"></script>
+        <script src="<?=base_url('assets')?>/js/pages/index.js"></script>
         <script>
             $(function()
             {

@@ -2,7 +2,7 @@
                 <main class="app-layout-content">
 
                     <!-- Page header -->
-                    <figure class="banner bg-img bg-app bg-inverse" data-height="500" style="background-image: url(<?=base_url('assets')?>/dist/assets/img/misc/frontend_header_bg.png)">
+                    <figure class="banner bg-img bg-app bg-inverse" data-height="500" style="background-image: url(<?=base_url('assets')?>/img/misc/frontend_header_bg.png)">
                         <figcaption class="banner-caption">
                             <div class="container">
                                 <div class="row vcenter-md">
@@ -12,7 +12,7 @@
                                         <a class="btn btn-default btn-lg" href="javascript:void(0)">Purchase AppUI now</a>
                                     </div>
                                     <div class="col-md-6 col-md-pull-5 hidden-sm hidden-xs">
-                                        <img class="img-responsive img-full" src="<?=base_url('assets')?>/dist/assets/img/misc/frontend_home1.png" alt="" />
+                                        <img class="img-responsive img-full" src="<?=base_url('assets')?>/img/misc/frontend_home1.png" alt="" />
                                     </div>
                                 </div>
                                 <!-- .row -->
@@ -66,7 +66,7 @@
                                 </div>
                                 <!-- .col-md-4 -->
                                 <div class="col-md-4 col-md-offset-2">
-                                    <img class="img-responsive" src="<?=base_url('assets')?>/dist/assets/img/misc/frontend_home2.png" alt="" />
+                                    <img class="img-responsive" src="<?=base_url('assets')?>/img/misc/frontend_home2.png" alt="" />
                                 </div>
                                 <!-- .col-md-4 -->
                             </div>
@@ -86,7 +86,7 @@
                                 </div>
                                 <!-- .col-md-4 -->
                                 <div class="col-md-4 col-md-pull-3">
-                                    <img class="img-responsive" src="<?=base_url('assets')?>/dist/assets/img/misc/frontend_home3.png" alt="" />
+                                    <img class="img-responsive" src="<?=base_url('assets')?>/img/misc/frontend_home3.png" alt="" />
                                 </div>
                                 <!-- .col-md-4 -->
                             </div>
@@ -106,7 +106,7 @@
                                 </div>
                                 <!-- .col-md-4 -->
                                 <div class="col-md-4 col-md-offset-2">
-                                    <img class="img-responsive" src="<?=base_url('assets')?>/dist/assets/img/misc/frontend_home4.png" alt="" />
+                                    <img class="img-responsive" src="<?=base_url('assets')?>/img/misc/frontend_home4.png" alt="" />
                                 </div>
                                 <!-- .col-md-4 -->
                             </div>
@@ -121,7 +121,7 @@
                             <div class="row m-b-md">
                                 <div class="col-md-4 col-md-offset-1">
                                     <div class="img-box">
-                                        <img class="img-avatar" src="<?=base_url('assets')?>/dist/assets/img/avatars/avatar3.jpg" alt="" />
+                                        <img class="img-avatar" src="<?=base_url('assets')?>/img/avatars/avatar3.jpg" alt="" />
                                         <div class="img-text">
                                             <h2 class="h1 m-t-0">For developers</h2>
                                             <p class="m-b">Duo brute quaestio et. At laudem doming adipisci qui, vero nonumes lucilius vis te.</p>
@@ -133,7 +133,7 @@
                                 <!-- .col-md-4 -->
                                 <div class="col-md-4 col-md-offset-2">
                                     <div class="img-box">
-                                        <img class="img-avatar" src="<?=base_url('assets')?>/dist/assets/img/avatars/avatar5.jpg" alt="" />
+                                        <img class="img-avatar" src="<?=base_url('assets')?>/img/avatars/avatar5.jpg" alt="" />
                                         <div class="img-text">
                                             <h2 class="h1 m-t-0">For designers</h2>
                                             <p class="m-b">Cu virtute appareat duo, tota assum summo duo at, sit no adolescens deseruisse.</p>

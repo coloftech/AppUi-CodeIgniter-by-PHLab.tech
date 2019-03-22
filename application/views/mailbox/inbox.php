@@ -66,35 +66,35 @@
                                             <ul class="list-users">
                                                 <li>
                                                     <a href="base_pages_profile.html">
-                                                        <img class="img-avatar" src="<?=base_url('assets')?>/dist/assets/img/avatars/avatar7.jpg" alt="">
+                                                        <img class="img-avatar" src="<?=base_url('assets')?>/img/avatars/avatar7.jpg" alt="">
                                                         <i class="ion-record text-green"></i> Jacqueline Scott
                                                         <div class="text-muted"><small>Web Designer</small></div>
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="base_pages_profile.html">
-                                                        <img class="img-avatar" src="<?=base_url('assets')?>/dist/assets/img/avatars/avatar12.jpg" alt="">
+                                                        <img class="img-avatar" src="<?=base_url('assets')?>/img/avatars/avatar12.jpg" alt="">
                                                         <i class="ion-record text-green"></i> Douglas Bowman
                                                         <div class="text-muted"><small>Graphic Designer</small></div>
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="base_pages_profile.html">
-                                                        <img class="img-avatar" src="<?=base_url('assets')?>/dist/assets/img/avatars/avatar5.jpg" alt="">
+                                                        <img class="img-avatar" src="<?=base_url('assets')?>/img/avatars/avatar5.jpg" alt="">
                                                         <i class="ion-record hidden"></i> Mildred Matthews
                                                         <div class="text-muted"><small>Photographer</small></div>
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="base_pages_profile.html">
-                                                        <img class="img-avatar" src="<?=base_url('assets')?>/dist/assets/img/avatars/avatar2.jpg" alt="">
+                                                        <img class="img-avatar" src="<?=base_url('assets')?>/img/avatars/avatar2.jpg" alt="">
                                                         <i class="ion-record text-green"></i> Brian Hunt
                                                         <div class="text-muted"><small>Copywriter</small></div>
                                                     </a>
                                                 </li>
                                                 <li>
                                                     <a href="base_pages_profile.html">
-                                                        <img class="img-avatar" src="<?=base_url('assets')?>/dist/assets/img/avatars/avatar9.jpg" alt="">
+                                                        <img class="img-avatar" src="<?=base_url('assets')?>/img/avatars/avatar9.jpg" alt="">
                                                         <i class="ion-record hidden"></i> Christine Harper
                                                         <div class="text-muted"><small>UI Designer</small></div>
                                                     </a>
@@ -108,7 +108,7 @@
                                     <!-- Account -->
                                     <div class="card">
                                         <div class="card-block text-center bg-img" style="background-image: url('<?=base_url('assets/dist/')?>assets/img/photos/photo2.jpg');">
-                                            <img class="img-avatar img-avatar-96 img-avatar-thumb" src="<?=base_url('assets')?>/dist/assets/img/avatars/avatar3.jpg" alt="" />
+                                            <img class="img-avatar img-avatar-96 img-avatar-thumb" src="<?=base_url('assets')?>/img/avatars/avatar3.jpg" alt="" />
                                         </div>
                                         <a class="card-block" href="javascript:void(0)">
                                             <table class="card-table text-center">

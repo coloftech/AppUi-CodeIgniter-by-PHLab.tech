@@ -16,22 +16,22 @@
         <meta name="robots" content="noindex, nofollow" />
 
         <!-- Favicons -->
-        <link rel="apple-touch-icon" href="<?=base_url('assets')?>/dist/assets/img/favicons/apple-touch-icon.png" />
-        <link rel="icon" href="<?=base_url('assets')?>/dist/assets/img/favicons/favicon.ico" />
+        <link rel="apple-touch-icon" href="<?=base_url('assets')?>/img/favicons/apple-touch-icon.png" />
+        <link rel="icon" href="<?=base_url('assets')?>/img/favicons/favicon.ico" />
 
         <!-- Google fonts -->
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,400italic,500,900%7CRoboto+Slab:300,400%7CRoboto+Mono:400" />
 
         <!-- Page JS Plugins CSS -->
-        <link rel="stylesheet" href="<?=base_url('assets')?>/dist/assets/js/plugins/slick/slick.min.css" />
-        <link rel="stylesheet" href="<?=base_url('assets')?>/dist/assets/js/plugins/slick/slick-theme.min.css" />
+        <link rel="stylesheet" href="<?=base_url('assets')?>/js/plugins/slick/slick.min.css" />
+        <link rel="stylesheet" href="<?=base_url('assets')?>/js/plugins/slick/slick-theme.min.css" />
 
         <!-- AppUI CSS stylesheets -->
-        <link rel="stylesheet" id="css-font-awesome" href="<?=base_url('assets')?>/dist/assets/css/font-awesome.css" />
-        <link rel="stylesheet" id="css-ionicons" href="<?=base_url('assets')?>/dist/assets/css/ionicons.css" />
-        <link rel="stylesheet" id="css-bootstrap" href="<?=base_url('assets')?>/dist/assets/css/bootstrap.css" />
-        <link rel="stylesheet" id="css-app" href="<?=base_url('assets')?>/dist/assets/css/app.css" />
-        <link rel="stylesheet" id="css-app-custom" href="<?=base_url('assets')?>/dist/assets/css/app-custom.css" />
+        <link rel="stylesheet" id="css-font-awesome" href="<?=base_url('assets')?>/css/font-awesome.css" />
+        <link rel="stylesheet" id="css-ionicons" href="<?=base_url('assets')?>/css/ionicons.css" />
+        <link rel="stylesheet" id="css-bootstrap" href="<?=base_url('assets')?>/css/bootstrap.css" />
+        <link rel="stylesheet" id="css-app" href="<?=base_url('assets')?>/css/app.css" />
+        <link rel="stylesheet" id="css-app-custom" href="<?=base_url('assets')?>/css/app-custom.css" />
         <!-- End Stylesheets -->
     </head>
 
@@ -46,7 +46,7 @@
                     <div class="app-layout-drawer-scroll">
                         <!-- Drawer logo -->
                         <div id="logo" class="drawer-header">
-                            <a href="<?=site_url('dashboard')?>"><img class="img-responsive"  src="<?=base_url('assets')?>/dist/assets/img/logo/logo-backend.png" title="AppUI" alt="AppUI" /></a>
+                            <a href="<?=site_url('dashboard')?>"><img class="img-responsive"  src="<?=base_url('assets')?>/img/logo/logo-backend.png" title="AppUI" alt="AppUI" /></a>
                         </div>
 
                         <!-- Drawer navigation -->
@@ -349,7 +349,7 @@
                                     <li class="dropdown dropdown-profile">
                                         <a href="javascript:void(0)" data-toggle="dropdown">
                                             <span class="m-r-sm">John Doe <span class="caret"></span></span>
-                                            <img class="img-avatar img-avatar-48"  src="<?=base_url('assets')?>/dist/assets/img/avatars/avatar3.jpg" alt="User profile pic" />
+                                            <img class="img-avatar img-avatar-48"  src="<?=base_url('assets')?>/img/avatars/avatar3.jpg" alt="User profile pic" />
                                         </a>
                                         <ul class="dropdown-menu dropdown-menu-right">
                                             <li class="dropdown-header">

@@ -15,18 +15,18 @@
         <meta name="robots" content="noindex, nofollow" />
 
         <!-- Favicons -->
-        <link rel="apple-touch-icon" href="<?=base_url('assets')?>/dist/assets/img/favicons/apple-touch-icon.png" />
-        <link rel="icon" href="<?=base_url('assets')?>/dist/assets/img/favicons/favicon.ico" />
+        <link rel="apple-touch-icon" href="<?=base_url('assets')?>/img/favicons/apple-touch-icon.png" />
+        <link rel="icon" href="<?=base_url('assets')?>/img/favicons/favicon.ico" />
 
         <!-- Google fonts -->
         <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto:300,400,400italic,500,900%7CRoboto+Slab:300,400%7CRoboto+Mono:400" />
 
         <!-- AppUI CSS stylesheets -->
-        <link rel="stylesheet" id="css-font-awesome" href="<?=base_url('assets')?>/dist/assets/css/font-awesome.css" />
-        <link rel="stylesheet" id="css-ionicons" href="<?=base_url('assets')?>/dist/assets/css/ionicons.css" />
-        <link rel="stylesheet" id="css-bootstrap" href="<?=base_url('assets')?>/dist/assets/css/bootstrap.css" />
-        <link rel="stylesheet" id="css-app" href="<?=base_url('assets')?>/dist/assets/css/app.css" />
-        <link rel="stylesheet" id="css-app-custom" href="<?=base_url('assets')?>/dist/assets/css/app-custom.css" />
+        <link rel="stylesheet" id="css-font-awesome" href="<?=base_url('assets')?>/css/font-awesome.css" />
+        <link rel="stylesheet" id="css-ionicons" href="<?=base_url('assets')?>/css/ionicons.css" />
+        <link rel="stylesheet" id="css-bootstrap" href="<?=base_url('assets')?>/css/bootstrap.css" />
+        <link rel="stylesheet" id="css-app" href="<?=base_url('assets')?>/css/app.css" />
+        <link rel="stylesheet" id="css-app-custom" href="<?=base_url('assets')?>/css/app-custom.css" />
         <!-- End Stylesheets -->
     </head>
 
@@ -47,7 +47,7 @@
                 </button>
                                 <!-- Header logo -->
                                 <a class="navbar-brand" href="javascript:void(0)">
-                                    <img class="img-responsive" src="<?=base_url('assets')?>/dist/assets/img/logo/logo-frontend.png" title="AppUI" alt="AppUI" />
+                                    <img class="img-responsive" src="<?=base_url('assets')?>/img/logo/logo-frontend.png" title="AppUI" alt="AppUI" />
                                 </a>
                             </div>
 
